@@ -1,15 +1,19 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caroline Medeiros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-medeiros&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Front-end student // Hoje estou estudando Front-End
+- 🔥 Front-end student // Hoje estou estudando para ser Dev Front-End 
 
-- 🔭 Em transição de carreira
+- 🌱 Currently studying JavaScript, Html and Css// Atualmente estudando JavaScript, Html e Css.
 
-- ▶️ I regularly post videos on [youtube.com/Carolinemedeiros](https://www.youtube.com/channel/UCOtZieROS6Qg3zo13mKkOjw)
+- 🔭 in career transition// Em transição de carreira
+
+- ▶️ I regularly post videos on [youtube.com/Carolinemedeiros](https://www.youtube.com/channel/UCOtZieROS6Qg3zo13mKkOjw) // Regularmente posto vídeos no youtube
 
 - 💬 Twitter: @cmedeiros0
 
-- ⚡ Fun fact **I love motorcycles**
+- 📫 email: carol02medeiros@gmail.com
+
+- ⚡ Fun fact **I love motorcycles** // Fato engraçado **Eu amo Motos**
 
 <br><br>
 
