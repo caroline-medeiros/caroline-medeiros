@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Caroline Medeiros</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-medeiros&color=yellow" alt="Profile views" /> </p>
 
-<!--
-**caroline-medeiros/caroline-medeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Front-end student // Hoje estou estudando Front-End
 
-Here are some ideas to get you started:
+- 🔭 Em transição de carreira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ▶️ I regularly post videos on [youtube.com/Carolinemedeiros](https://www.youtube.com/channel/UCOtZieROS6Qg3zo13mKkOjw)
+
+- 💬 Twitter: @cmedeiros0
+
+- ⚡ Fun fact **I love motorcycles**
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=caroline-medeiros&show_icons=true&theme=vision-friendly-dark" alt="caroline-medeiros stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-medeiros&layout=compact&theme=vision-friendly-dark" alt="caroline-medeiros most languages"/>
+</p>
+
+<br><br>
