@@ -20,8 +20,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=caroline-medeiros&show_icons=true&theme=vision-friendly-dark" alt="caroline-medeiros stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-medeiros&layout=compact&theme=vision-friendly-dark" alt="caroline-medeiros most languages"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-medeiros&layout=compact&theme=vision-friendly-dark" alt="caroline-medeiros most languages"/> <img width="420em" src="https://github-readme-stats.vercel.app/api?username=caroline-medeiros&show_icons=true&theme=vision-friendly-dark" alt="caroline-medeiros stats"/>
 </p>
 
 <br><br>
