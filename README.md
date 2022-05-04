@@ -7,8 +7,6 @@
 
 🔭 in career transition// Em transição de carreira
 
-▶️ I regularly post videos on [youtube.com/Carolinemedeiros](https://www.youtube.com/channel/UCOtZieROS6Qg3zo13mKkOjw) // Regularmente posto vídeos no youtube
-
 💬 Twitter: @cmedeiros0
 
 📫 email: carol02medeiros@gmail.com
