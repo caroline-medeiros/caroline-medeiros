@@ -3,7 +3,7 @@
 
 🔥 Front-end student // Hoje estou estudando para ser Dev Front-End
 
-🌱 Currently studying JavaScript, Html and Css// Atualmente estudando JavaScript, Html e Css.
+🌱 Currently studying JavaScript, ReactJs // Atualmente estudando JavaScript, ReactJs
 
 🔭 in career transition// Em transição de carreira
 
