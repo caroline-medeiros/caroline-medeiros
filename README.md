@@ -3,6 +3,8 @@
 
 🔥 Front-end student // Hoje estou estudando para ser Dev Front-End
 
+⚡ Analysis and Systems Development Student / Análise e Desenvolvimento de Sistemas (01/05)
+
 🌱 Currently studying JavaScript, ReactJs // Atualmente estudando JavaScript, ReactJs
 
 🔭 in career transition// Em transição de carreira
