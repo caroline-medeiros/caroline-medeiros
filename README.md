@@ -1,13 +1,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-medeiros&color=yellow" alt="Profile views" /> </p>
 
-🔥 Front-end student 
+🔥 Front-end Developer JR 
 
 ⚡ Analysis and Systems Development Student 
 
-🌱 Currently studying JavaScript, ReactJs 
+🌱 Currently studying JavaScript and ReactJs 
 
-🔭 in career transition
+🔭 in career transition - 100% 
 
 📫 email: carol02medeiros@gmail.com
 
