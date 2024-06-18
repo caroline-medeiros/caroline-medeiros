@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caroline-medeiros&color=yellow" alt="Profile views" /> </p>
 
-🔥 Front-end Developer JR 
+🔥 Dev FullStack JR 
 
 ⚡ Analysis and Systems Development Student 
 
