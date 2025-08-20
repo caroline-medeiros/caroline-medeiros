@@ -1,10 +1,8 @@
 🔥 Dev FullStack 
 
-⚡ Analysis and Systems Development Student 
+⚡ Analysis and Systems Development
 
-🌱 Currently studying JavaScript and ReactJs 
-
-🔭 in career transition - 100% 
+🌱 Currently studying JavaScript | ReactJs | RoR | Typescript 
 
 📫 email: carol02medeiros@gmail.com
 
